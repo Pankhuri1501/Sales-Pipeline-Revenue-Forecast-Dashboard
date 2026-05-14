@@ -19,9 +19,6 @@ This Power BI dashboard analyzes sales performance, revenue forecasting, pipelin
 - Power Query
 - Excel
 
-## Dashboard Preview
-(Add screenshots here)
-
 ## Live Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiYTRiNWE3MGEtNzBmYi00ODkwLWI5NDYtNWQzZjAyNmFmMDc0IiwidCI6ImJjNzFlMDBiLTA1NGEtNDA1OS1hODBhLThhNDgyMDIzNjNiZSJ9
 
