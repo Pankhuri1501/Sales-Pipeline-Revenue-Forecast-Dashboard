@@ -23,7 +23,7 @@ This Power BI dashboard analyzes sales performance, revenue forecasting, pipelin
 (Add screenshots here)
 
 ## Live Dashboard
-[Click Here to View Dashboard](YOUR_POWERBI_LINK)
+https://app.powerbi.com/view?r=eyJrIjoiYTRiNWE3MGEtNzBmYi00ODkwLWI5NDYtNWQzZjAyNmFmMDc0IiwidCI6ImJjNzFlMDBiLTA1NGEtNDA1OS1hODBhLThhNDgyMDIzNjNiZSJ9
 
 ## Files Included
 - PBIX Dashboard File
